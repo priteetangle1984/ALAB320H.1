@@ -1,10 +1,14 @@
-import React from 'react'
+// import React from 'react'
 
-export default function EmloyeeListItem() {
-  return (
-    <div className='employee-list-item'>
-      <h3>{Fullname}</h3>
-      <p>{position}</p>
-    </div>
-  )
-}
+// function EmloyeeListItem({ employee, onClick }) {
+//   const { Fullname, position } = employee;
+
+//   return (
+//     <div className='employee-list-item' onClick={onClick} >
+//       <h3>{Fullname}</h3>
+//       <p>{position}</p>
+//     </div>
+//   )
+// }
+
+// export default EmloyeeListItem;

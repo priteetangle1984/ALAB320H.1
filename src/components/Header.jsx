@@ -1,11 +1,13 @@
-import React from 'react'
-import SearchBar from "./SearchBar"
+// import React from 'react'
 
-export default function Header() {
-  return (
-    <div className="header">
-      <h1>Employee Directory</h1>
-      <SearchBar />
-    </div>
-  )
-}
+// function Header() {
+//   return (
+//     <div className="header">
+//       <h1>Employee Directory</h1>
+//       <nav> </nav>
+//     </div>
+//   )
+// }
+
+
+// export default Header;
